@@ -1,3 +1,5 @@
-# Write your solution here
+function helloWorld {
+  return "Hello World"!
+}
 
-# This file should output "Hello World!" using a puts statement
+helloWorld()
