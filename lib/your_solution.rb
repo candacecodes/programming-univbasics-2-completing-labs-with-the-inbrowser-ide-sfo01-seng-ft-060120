@@ -1,5 +1,1 @@
-function helloWorld {
-  return "Hello World"!
-}
-
-helloWorld()
+puts "Hello World!"
